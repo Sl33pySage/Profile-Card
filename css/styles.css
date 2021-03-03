@@ -59,8 +59,8 @@ cb {
 
 /* Top Image */
 
-.top-section {
-    background: url(./images/bg-pattern-card.svg);
+.top-section  .top-bg {
+    width: 350px;
     height: 150px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
