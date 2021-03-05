@@ -71,7 +71,7 @@ body {
     width: 110px;
     height: 110px;
     border-radius: 100%;
-    border: 5px solide white;
+    border: 5px solid white;
     background-color: aliceblue;
     overflow: hidden;
     margin: -50px auto 30px auto;
